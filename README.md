@@ -13,7 +13,7 @@ For an exit strategy, we simply reverse the above logic. Note that we will analy
 3. We also extended this to multiple stocks. Some modifications in the code were needed for example looping over all data feeds, and creating a dict to store the values.
 ## Results
 
-For our final strategy, we see that we get a nice return of around 450%
+For our final strategy, we see that we get a nice return of around 44%
 
 ## Future Work
 
